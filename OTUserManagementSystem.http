@@ -1,0 +1,6 @@
+@OTUserManagementSystemHostAddress = http://localhost:5143
+
+GET {{OTUserManagementSystemHostAddress}}/weatherforecast/
+Accept: application/json
+
+###
